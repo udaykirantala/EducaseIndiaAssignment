@@ -1,0 +1,54 @@
+.registaion-heding {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.registaion-heding h2 {
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    margin-bottom: 24px !important;
+}
+
+.custom-textfield {
+    margin-bottom: 16px !important;
+}
+
+.custom-textfield .MuiInputLabel-root.Mui-focused {
+    color: #6c25ff !important;
+}
+
+.custom-textfield .MuiOutlinedInput-root.Mui-focused fieldset {
+    border-color: #cbcbcb !important;
+}
+
+.agency-label {
+    font-weight: 500 !important;
+    margin-top: 16px !important;
+}
+
+.agency-label span {
+    color: red !important;
+}
+
+.custom-radio {
+    color: #6c25ff !important;
+}
+
+.custom-radio.Mui-checked {
+    color: #6c25ff !important;
+}
+
+.create-account-btn {
+    height: 46px !important;
+    text-transform: none !important;
+    border-radius: 6px !important;
+}
+
+.create-account-btn-continer {
+    position: absolute;
+    bottom: 30px;
+}
+
+.create-account-btn:hover {
+    background-color: #6c25ff !important;
+}

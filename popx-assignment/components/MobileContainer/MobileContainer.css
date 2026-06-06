@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.mobile {
+  width: 375px;
+  min-height: 655px;
+  background: #F7F8F9;
+  padding: 20px;
+  position: relative;
+}
