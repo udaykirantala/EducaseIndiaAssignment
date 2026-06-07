@@ -16,11 +16,11 @@ The UI is designed to match the given mobile design as closely as possible while
 
 ## Live Demo
 
-Hosted Link: https://your-vercel-link.vercel.app
+Hosted Link: https://educase-india-assignment-sigma.vercel.app/
 
 ## GitHub Repository
 
-Repository Link: https://github.com/your-username/popx-assignment
+Repository Link: https://github.com/udaykirantala/EducaseIndiaAssignment.git
 
 ---
 
