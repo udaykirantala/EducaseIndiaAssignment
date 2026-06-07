@@ -9,8 +9,10 @@ import {
 } from "@mui/material";
 import { MobileContainer } from "../../components/MobileContainer/MobileContainer";
 import './Register.css'
+import { useNavigate } from "react-router-dom";
 
 export const Register = () => {
+    const navigate = useNavigate()
     const [formData, setFormData] = useState({
         fullName: "",
         email: "",
@@ -66,6 +68,7 @@ export const Register = () => {
             agency: "Yes",
         });
         setErrors({});
+        navigate('/account-settings');
     };
     return (
         <MobileContainer>

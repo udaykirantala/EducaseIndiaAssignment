@@ -14,7 +14,7 @@ export const Welcome = ()=>{
                 </div>
                 <div className="btn-continer">
                     <button className="create-account-btn" onClick={()=>navigate('/register')}>Create Account</button>
-                    <button className="Registered-btn">Already Registered? Login</button>
+                    <button className="Registered-btn" onClick={()=>navigate('/signin')}>Already Registered? Login</button>
                 </div>
             </div>
         </MobileContainer>

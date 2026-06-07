@@ -1,0 +1,51 @@
+.signin-container {
+  padding-top: 20px;
+}
+
+.signin-heading {
+  font-size: 32px;
+  font-weight: 700;
+  color: #1d2226;
+  margin-bottom: 10px;
+}
+
+.signin-description {
+  color: #8a8a8a;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.custom-textfield {
+  margin-bottom: 20px !important;
+}
+
+.custom-textfield .MuiInputLabel-root {
+  color: #6c25ff !important;
+}
+
+.custom-textfield .MuiInputLabel-root.Mui-focused {
+  color: #6c25ff !important;
+}
+
+.custom-textfield .MuiOutlinedInput-root.Mui-focused fieldset {
+  border-color: #cbcbcb !important;
+}
+
+.login-btn {
+  height: 46px !important;
+  background: #CBCBCB !important;
+  color: white !important;
+  text-transform: none !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  margin-top: 10px !important;
+}
+
+.active-btn {
+  background: #6c25ff !important;
+}
+
+.active-btn:hover {
+  background: #6c25ff !important;
+}
